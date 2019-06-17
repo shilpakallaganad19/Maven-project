@@ -36,14 +36,14 @@
             <scope>provided</scope>
         </dependency>
         
-        <dependency>
+      <!--  <dependency>
             <groupId>org.jfrog.test</groupId>
             <artifactId>multi</artifactId>
             <version>3.8</version>
             <type>jar</type>
             <classifier>dev</classifier>
             <scope>test</scope>
-        </dependency>
+        </dependency> -->
         
     </dependencies>
 
