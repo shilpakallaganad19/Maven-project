@@ -77,15 +77,14 @@
             <version>2.5.6</version>
         </dependency>
 
-        <!-- dependency with classifier 
+        <!-- dependency with classifier -->
         <dependency>
-            <groupId>org.jfrog.test</groupId>
-            <artifactId>multi</artifactId>
-            <version>3.8</version>
-            <type>jar</type>
-            <classifier>dev</classifier>
+            <groupId>org.testng</groupId>
+            <artifactId>testng</artifactId>
+            <classifier>jdk15</classifier>
+            <version>5.9</version>
             <scope>test</scope>
-        </dependency>  -->
+        </dependency>
     </dependencies>
 
 </project>
