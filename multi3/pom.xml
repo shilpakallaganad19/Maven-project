@@ -5,12 +5,12 @@
         <groupId>org.jfrog.test</groupId>
         <artifactId>multi</artifactId>
         <version>3.8-SNAPSHOT</version>
-        <classifier>dev</classifier>
     </parent>
 
     <artifactId>multi3</artifactId>
     <packaging>war</packaging>
     <name>Multi 3</name>
+    <classifier>dev</classifier>
 
     <dependencies>
         <!-- depends on another project (should include transitive) -->
