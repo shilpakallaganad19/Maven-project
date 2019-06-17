@@ -78,13 +78,13 @@
         </dependency>
 
         <!-- dependency with classifier -->
-      <!--  <dependency>
+       <dependency>
             <groupId>org.testng</groupId>
             <artifactId>testng</artifactId>
             <classifier>jdk15</classifier>
             <version>5.9</version>
             <scope>test</scope>
-        </dependency> . --->
+        </dependency> 
     </dependencies>
 
 </project>
