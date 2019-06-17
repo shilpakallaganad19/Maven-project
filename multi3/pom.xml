@@ -10,7 +10,6 @@
     <artifactId>multi3</artifactId>
     <packaging>war</packaging>
     <name>Multi 3</name>
-    <classifier>dev</classifier>
 
     <dependencies>
         <!-- depends on another project (should include transitive) -->
