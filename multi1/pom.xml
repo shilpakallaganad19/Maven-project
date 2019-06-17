@@ -77,7 +77,7 @@
             <version>2.5.6</version>
         </dependency>
 
-        <!-- dependency with classifier -->
+        <!-- dependency with classifier 
         <dependency>
             <groupId>org.jfrog.test</groupId>
             <artifactId>multi</artifactId>
@@ -85,7 +85,7 @@
             <type>jar</type>
             <classifier>dev</classifier>
             <scope>test</scope>
-        </dependency>
+        </dependency>  -->
     </dependencies>
 
 </project>
