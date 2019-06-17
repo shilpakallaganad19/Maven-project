@@ -10,9 +10,8 @@
     <artifactId>multi1</artifactId>
     <packaging>jar</packaging>
     <name>Multi 1</name>
-    <configuration>
     <classifier>dev</classifier>
-</configuration>
+
 
     <licenses>
         <license>
