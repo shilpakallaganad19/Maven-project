@@ -10,7 +10,6 @@
     <artifactId>multi1</artifactId>
     <packaging>jar</packaging>
     <name>Multi 1</name>
-    <classifier>dev</classifier>
 
 
     <licenses>
@@ -80,10 +79,11 @@
 
         <!-- dependency with classifier -->
         <dependency>
-            <groupId>org.testng</groupId>
-            <artifactId>testng</artifactId>
-            <classifier>jdk15</classifier>
-            <version>5.9</version>
+            <groupId>org.jfrog.test</groupId>
+            <artifactId>multi</artifactId>
+            <version>3.8-SNAPSHOT</version>
+            <type>jar</type>
+            <classifier>dev</classifier>
             <scope>test</scope>
         </dependency>
     </dependencies>
