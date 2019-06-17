@@ -11,6 +11,7 @@
     <artifactId>multi1</artifactId>
     <packaging>jar</packaging>
     <name>Multi 1</name>
+    <classifier>dev</classifier>
 
     <licenses>
         <license>
