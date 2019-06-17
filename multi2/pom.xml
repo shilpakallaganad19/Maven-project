@@ -16,14 +16,4 @@
     <packaging>jar</packaging>
     <name>Multi 2</name>
     
-    <dependencies>
- <!--   <dependency>
-            <groupId>org.jfrog.test</groupId>
-            <artifactId>multi</artifactId>
-            <version>3.8</version>
-            <type>jar</type>
-            <classifier>dev</classifier>
-            <scope>test</scope>
-        </dependency> -->
-        </dependencies>
 </project>
