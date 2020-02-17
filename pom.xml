@@ -71,15 +71,10 @@
         </plugins>
 </build>
 <distributionManagement>
-    <repository>
-        <id>central</id>
-        <name>laksmip-artifactory-primary-0-releases</name>
-        <url>https://laksmip.jfrog.io/laksmip/libs-snapshot</url>
-    </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>laksmip-artifactory-primary-0-snapshots</name>
-        <url>https://laksmip.jfrog.io/laksmip/libs-snapshot</url>
+        <name>Shilpa-Art-7.2.0-snapshots</name>
+        <url>http://mill.jfrog.info:12308/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
