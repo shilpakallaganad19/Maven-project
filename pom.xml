@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jfrog.test</groupId>
     <artifactId>multi</artifactId>
-    <version>4.1-SNAPSHOT</version>
+    <version>4.2-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
@@ -69,5 +69,17 @@
                 </configuration>
             </plugin>
         </plugins>
-    </build>
+</build>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>laksmip-artifactory-primary-0-releases</name>
+        <url>https://laksmip.jfrog.io/laksmip/shilpa-test-local</url>
+    </repository>
+    <snapshotRepository>
+        <id>snapshots</id>
+        <name>laksmip-artifactory-primary-0-snapshots</name>
+        <url>https://laksmip.jfrog.io/laksmip/shilpa-test-local</url>
+    </snapshotRepository>
+</distributionManagement>
 </project>
