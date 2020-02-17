@@ -74,12 +74,12 @@
     <repository>
         <id>central</id>
         <name>laksmip-artifactory-primary-0-releases</name>
-        <url>https://laksmip.jfrog.io/laksmip/shilpa-test-local</url>
+        <url>https://laksmip.jfrog.io/laksmip/libs-snapshot</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
         <name>laksmip-artifactory-primary-0-snapshots</name>
-        <url>https://laksmip.jfrog.io/laksmip/shilpa-test-local</url>
+        <url>https://laksmip.jfrog.io/laksmip/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
 </project>
