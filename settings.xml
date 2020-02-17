@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>*** Insert encrypted password here ***</password>
+      <password>AP5TN5DHbYJafhfaT4RmiWeqPYR</password>
       <id>central</id>
     </server>
     <server>
       <username>admin</username>
-      <password>*** Insert encrypted password here ***</password>
+      <password>AP5TN5DHbYJafhfaT4RmiWeqPYR</password>
       <id>snapshots</id>
     </server>
   </servers>
@@ -54,4 +54,3 @@
     <activeProfile>artifactory</activeProfile>
   </activeProfiles>
 </settings>
-
