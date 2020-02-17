@@ -77,4 +77,5 @@
         <url>http://mill.jfrog.info:12308/artifactory/libs-snapshot</url>
     </snapshotRepository>
 </distributionManagement>
+
 </project>
