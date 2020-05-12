@@ -73,9 +73,16 @@
 <distributionManagement>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>Shilpa-Art-7.2.0-snapshots</name>
-        <url>http://mill.jfrog.info:12308/artifactory/libs-snapshot</url>
+        <name>shilpak.local-snapshots</name>
+        <url>http://192.168.0.105:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
+</distributionManagement>
+<distributionManagement>
+    <repository>
+        <id>central</id>
+        <name>shilpak.local-releases</name>
+        <url>http://192.168.0.105:8081/artifactory/libs-release</url>
+    </repository>
 </distributionManagement>
 
 </project>
