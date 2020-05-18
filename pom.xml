@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>org.jfrog.test</groupId>
     <artifactId>multi</artifactId>
-    <version>4.2-SNAPSHOT</version>
+    <version>4.3</version>
     <packaging>pom</packaging>
     <name>Simple Multi Modules Build</name>
 
@@ -74,12 +74,12 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>shilpak.local-snapshots</name>
-        <url>http://192.168.0.105:8081/artifactory/libs-snapshot</url>
+        <url>http://192.168.0.103:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
     <repository>
         <id>central</id>
         <name>shilpak.local-releases</name>
-        <url>http://192.168.0.105:8081/artifactory/libs-release</url>
+        <url>http://192.168.0.103:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
 
