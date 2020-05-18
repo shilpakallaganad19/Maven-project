@@ -1,58 +1,98 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <testsuite tests="1" failures="0" name="artifactory.test.AppTest" time="0.001" errors="0" skipped="0">
   <properties>
-    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
-    <property name="java.vm.version" value="13.0.2+8"/>
-    <property name="sun.boot.library.path" value="/usr/local/Cellar/openjdk/13.0.2+8_2/libexec/openjdk.jdk/Contents/Home/lib"/>
-    <property name="maven.multiModuleProjectDirectory" value="/Users/shilpakallaganad/Downloads/ShilpaTest/Maven-project"/>
-    <property name="java.vm.vendor" value="Oracle Corporation"/>
-    <property name="java.vendor.url" value="https://openjdk.java.net/"/>
-    <property name="path.separator" value=":"/>
-    <property name="guice.disable.misplaced.annotation.check" value="true"/>
-    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
-    <property name="user.country" value="IN"/>
+    <property name="java.vendor" value="AdoptOpenJDK"/>
+    <property name="teamcity.agent.dotnet.build_id" value="108"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
-    <property name="user.dir" value="/Users/shilpakallaganad/Downloads/ShilpaTest/Maven-project"/>
-    <property name="java.vm.compressedOopsMode" value="Zero based"/>
+    <property name="teamcity.buildConfName" value="test-build"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="agent.home.dir" value="/Users/shilpakallaganad/Downloads/buildAgent"/>
+    <property name="os.name" value="Mac OS X"/>
+    <property name="teamcity.build.properties.file" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/teamcity.build6078516871026465830.properties"/>
+    <property name="sun.boot.class.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/resources.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/rt.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/sunrsasign.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jsse.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jce.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/charsets.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/jfr.jar:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/classes"/>
+    <property name="Mono" value="/Library/Frameworks/Mono.framework/Versions/6.6.0/bin/mono"/>
+    <property name="build.number" value="19"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="agent.name" value="agent1"/>
+    <property name="java.runtime.version" value="1.8.0_252-b09"/>
+    <property name="teamcity.auth.password" value="Qlkau6NyKBoTTbpwvuZY7XBOyMDloh8L"/>
+    <property name="teamcity.runner.properties.file" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/teamcity.runner905778281364415317.properties"/>
+    <property name="agent.ownPort" value="9090"/>
+    <property name="user.name" value="shilpakallaganad"/>
+    <property name="teamcity.maven.userSettings.path" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/maven_settings_2471333900448168184.xml"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="teamcity.build.workingDir" value="/Users/shilpakallaganad/Downloads/buildAgent/work/e84da7c79692af2e"/>
+    <property name="maven.repo.local" value="/Users/shilpakallaganad/.m2/repository"/>
+    <property name="teamcity.version" value="2019.2.4 (build 72059)"/>
+    <property name="user.language" value="en"/>
+    <property name="teamcity.build.id" value="108"/>
+    <property name="sun.boot.library.path" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib"/>
+    <property name="classworlds.conf" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/teamcity.m2.conf"/>
+    <property name="teamcity.maven.watcher.home" value="/Users/shilpakallaganad/Downloads/buildAgent/plugins/mavenPlugin/maven-watcher-jdk16"/>
+    <property name="java.version" value="1.8.0_252"/>
+    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="teamcity.buildType.id" value="TestProject_TestBuild"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.endorsed.dirs" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/endorsed"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="file.separator" value="/"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="user.country" value="IN"/>
+    <property name="java.home" value="/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="teamcity.auth.userId" value="TeamCityBuildId=108"/>
+    <property name="os.version" value="10.15.4"/>
+    <property name="teamcity.maven.enableWatcher" value="true"/>
+    <property name="path.separator" value=":"/>
+    <property name="java.vm.version" value="25.252-b09"/>
+    <property name="build.vcs.number.TestProject_github" value="1fa56c654b72fff5553021e9a6e50d6830bae064"/>
+    <property name="java.awt.printerjob" value="sun.lwawt.macosx.CPrinterJob"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="awt.toolkit" value="sun.lwawt.macosx.LWCToolkit"/>
+    <property name="MonoVersion" value="6.6.0"/>
+    <property name="teamcity.agent.cpuBenchmark" value="716"/>
+    <property name="user.home" value="/Users/shilpakallaganad"/>
+    <property name="teamcity.configuration.properties.file" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/teamcity.config6789015733678138113.properties"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.library.path" value="/Users/shilpakallaganad/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
+    <property name="teamcity.projectName" value="test-project"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="java.vm.vendor" value="AdoptOpenJDK"/>
+    <property name="gopherProxySet" value="false"/>
+    <property name="Mono4.0_x86" value="/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.0"/>
+    <property name="maven.home" value="/Users/shilpakallaganad/Downloads/buildAgent/tools/maven3_3"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -f /Users/shilpakallaganad/Downloads/buildAgent/work/e84da7c79692af2e/pom.xml -B clean install -s /Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/maven_settings_2471333900448168184.xml -Prelease"/>
+    <property name="java.class.path" value="/Users/shilpakallaganad/Downloads/buildAgent/tools/maven3_3/boot/plexus-classworlds-2.5.2.jar:"/>
+    <property name="Mono4.5_x86" value="/Library/Frameworks/Mono.framework/Versions/6.6.0/lib/mono/4.5"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
-    <property name="java.runtime.version" value="13.0.2+8"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="build.vcs.number.1" value="1fa56c654b72fff5553021e9a6e50d6830bae064"/>
+    <property name="agent.work.dir" value="/Users/shilpakallaganad/Downloads/buildAgent/work"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="java.io.tmpdir" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp"/>
+    <property name="maven.multiModuleProjectDirectory" value="/Users/shilpakallaganad/Downloads/buildAgent/work/e84da7c79692af2e"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="build.vcs.number" value="1fa56c654b72fff5553021e9a6e50d6830bae064"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.CGraphicsEnvironment"/>
     <property name="os.arch" value="x86_64"/>
-    <property name="java.io.tmpdir" value="/var/folders/zx/wy047l6s2kl1dr3dp1cypsp80000gp/T/"/>
+    <property name="teamcity.build.checkoutDir" value="/Users/shilpakallaganad/Downloads/buildAgent/work/e84da7c79692af2e"/>
+    <property name="java.ext.dirs" value="/Users/shilpakallaganad/Library/Java/Extensions:/Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java"/>
+    <property name="user.dir" value="/Users/shilpakallaganad/Downloads/buildAgent/work/e84da7c79692af2e"/>
+    <property name="teamcity.build.changedFiles.file" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/changedFiles9166833279172314492.txt"/>
     <property name="line.separator" value="
 "/>
-    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
-    <property name="os.name" value="Mac OS X"/>
-    <property name="classworlds.conf" value="/usr/local/Cellar/maven/3.6.3_1/libexec/bin/m2.conf"/>
-    <property name="sun.jnu.encoding" value="UTF-8"/>
-    <property name="java.library.path" value="/Users/shilpakallaganad/Library/Java/Extensions:/Library/Java/Extensions:/Network/Library/Java/Extensions:/System/Library/Java/Extensions:/usr/lib/java:."/>
-    <property name="maven.conf" value="/usr/local/Cellar/maven/3.6.3_1/libexec/conf"/>
-    <property name="jdk.debug" value="release"/>
-    <property name="java.class.version" value="57.0"/>
-    <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
-    <property name="os.version" value="10.15.3"/>
-    <property name="library.jansi.path" value="/usr/local/Cellar/maven/3.6.3_1/libexec/lib/jansi-native"/>
-    <property name="user.home" value="/Users/shilpakallaganad"/>
-    <property name="user.timezone" value="Asia/Kolkata"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="teamcity.tests.recentlyFailedTests.file" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/testsToRunFirst2795570739600382301.txt"/>
     <property name="file.encoding" value="UTF-8"/>
-    <property name="java.specification.version" value="13"/>
-    <property name="user.name" value="shilpakallaganad"/>
-    <property name="java.class.path" value="/usr/local/Cellar/maven/3.6.3_1/libexec/boot/plexus-classworlds-2.6.0.jar"/>
-    <property name="java.vm.specification.version" value="13"/>
-    <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean deploy -s settings.xml"/>
-    <property name="java.home" value="/usr/local/Cellar/openjdk/13.0.2+8_2/libexec/openjdk.jdk/Contents/Home"/>
-    <property name="user.language" value="en"/>
-    <property name="java.specification.vendor" value="Oracle Corporation"/>
-    <property name="java.vm.info" value="mixed mode, sharing"/>
-    <property name="java.version" value="13.0.2"/>
-    <property name="java.vendor" value="N/A"/>
-    <property name="maven.home" value="/usr/local/Cellar/maven/3.6.3_1/libexec"/>
-    <property name="file.separator" value="/"/>
-    <property name="java.version.date" value="2020-01-14"/>
-    <property name="java.vendor.url.bug" value="https://bugreport.java.com/bugreport/"/>
-    <property name="sun.cpu.endian" value="little"/>
-    <property name="sun.io.unicode.encoding" value="UnicodeBig"/>
+    <property name="teamcity.agent.dotnet.agent_url" value="http://localhost:9090/RPC2"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="com.jetbrains.maven.watcher.report.file" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp/maven-build-info.xml"/>
+    <property name="teamcity.build.tempDir" value="/Users/shilpakallaganad/Downloads/buildAgent/temp/buildTmp"/>
   </properties>
   <testcase classname="artifactory.test.AppTest" name="testApp" time="0.001"/>
 </testsuite>
