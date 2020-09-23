@@ -74,12 +74,12 @@
     <snapshotRepository>
         <id>snapshots</id>
         <name>shilpak.local-snapshots</name>
-        <url>http://192.168.0.103:8081/artifactory/libs-snapshot</url>
+        <url>http://192.168.43.104:8081/artifactory/libs-snapshot</url>
     </snapshotRepository>
     <repository>
         <id>central</id>
         <name>shilpak.local-releases</name>
-        <url>http://192.168.0.103:8081/artifactory/libs-release</url>
+        <url>http://192.168.43.104:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
 
