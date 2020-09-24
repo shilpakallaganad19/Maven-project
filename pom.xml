@@ -66,16 +66,10 @@
         </plugins>
 </build>
 <distributionManagement>
-    <snapshotRepository>
-        <id>snapshots</id>
-        <name>shilpak.local-snapshots</name>
-        <url>http://192.168.43.104:8081/artifactory/libs-snapshot</url>
-    </snapshotRepository>
     <repository>
         <id>central</id>
-        <name>shilpak.local-releases</name>
-        <url>http://192.168.43.104:8081/artifactory/libs-release</url>
+        <name>gaja-art7-redhat-releases</name>
+        <url>http://34.76.77.151:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
-
 </project>
