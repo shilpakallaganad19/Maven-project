@@ -60,7 +60,7 @@
     <repository>
         <id>central</id>
         <name>jana-arti-7102-releases</name>
-        <url>http://34.93.232.68:8081/artifactory/libs-release-local</url>
+        <url>http://34.93.232.68:8081/artifactory/libs-release</url>
     </repository>
 </distributionManagement>
 </project>
