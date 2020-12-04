@@ -68,8 +68,8 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>gaja-art7-redhat-releases</name>
-        <url>http://34.76.77.151:8081/artifactory/libs-release</url>
+        <name>jana-arti-7102-releases</name>
+        <url>http://34.93.232.68:8081/artifactory/libs-release-local</url>
     </repository>
 </distributionManagement>
 </project>
