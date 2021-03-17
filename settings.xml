@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>AP3fAMCZX5w3FGdMQ8S7r8QnCg2</password>
+      <password>AP4RCrqFAG7Rb2QHJTmRCs4Jv3S</password>
       <id>central</id>
     </server>
     <server>
       <username>admin</username>
-      <password>AP3fAMCZX5w3FGdMQ8S7r8QnCg2</password>
+      <password>AP4RCrqFAG7Rb2QHJTmRCs4Jv3S</password>
       <id>snapshots</id>
     </server>
   </servers>
@@ -22,13 +22,13 @@
           </snapshots>
           <id>central</id>
           <name>libs-release</name>
-          <url>http://34.76.77.151:8081/artifactory/libs-release</url>
+          <url>http://mill.jfrog.info:12650/artifactory/libs-release</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
           <name>libs-snapshot</name>
-          <url>http://34.76.77.151:8081/artifactory/libs-snapshot</url>
+          <url>http://mill.jfrog.info:12650/artifactory/libs-snapshot</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -38,13 +38,13 @@
           </snapshots>
           <id>central</id>
           <name>libs-release</name>
-          <url>http://34.76.77.151:8081/artifactory/libs-release</url>
+          <url>http://mill.jfrog.info:12650/artifactory/libs-release</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>libs-snapshot</name>
-          <url>http://34.76.77.151:8081/artifactory/libs-snapshot</url>
+          <url>http://mill.jfrog.info:12650/artifactory/libs-snapshot</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
