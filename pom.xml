@@ -59,8 +59,8 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>Shilpa-Art6x-releases</name>
-        <url>http://mill.jfrog.info:12650/artifactory/libs-release</url>
+        <name>Shilpa-Art-latest-releases</name>
+        <url>http://mill.jfrog.info:12868/artifactory/test-libs-release</url>
     </repository>
 </distributionManagement>
 </project>
