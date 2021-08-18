@@ -9,4 +9,7 @@
     </termsOfService>
     <publish>ALWAYS</publish>
   </buildScan>
+  <server>
+    <url>https://scans.gradle.com</url>
+  </server>
 </gradleEnterprise>
