@@ -4,12 +4,12 @@
   <servers>
     <server>
       <username>admin</username>
-      <password>APAkoeEb8C3uDcMY4VMC8Q15vzn</password>
+      <password>AP9W3pr5KtXmUPU1jjhMA2cBd2D</password>
       <id>central</id>
     </server>
     <server>
       <username>admin</username>
-      <password>APAkoeEb8C3uDcMY4VMC8Q15vzn</password>
+      <password>AP9W3pr5KtXmUPU1jjhMA2cBd2D</password>
       <id>snapshots</id>
     </server>
   </servers>
@@ -22,13 +22,13 @@
           </snapshots>
           <id>central</id>
           <name>test-libs-release</name>
-          <url>http://192.168.0.103:8082/artifactory/test-libs-release</url>
+          <url>http://mill.jfrog.info:12113/artifactory/test-libs-release</url>
         </repository>
         <repository>
           <snapshots />
           <id>snapshots</id>
           <name>test-libs-snapshot</name>
-          <url>http://192.168.0.103:8082/artifactory/test-libs-snapshot</url>
+          <url>http://mill.jfrog.info:12113/artifactory/test-libs-snapshot</url>
         </repository>
       </repositories>
       <pluginRepositories>
@@ -38,13 +38,13 @@
           </snapshots>
           <id>central</id>
           <name>test-libs-release</name>
-          <url>http://192.168.0.103:8082/artifactory/test-libs-release</url>
+          <url>http://mill.jfrog.info:12113/artifactory/test-libs-release</url>
         </pluginRepository>
         <pluginRepository>
           <snapshots />
           <id>snapshots</id>
           <name>test-libs-snapshot</name>
-          <url>http://192.168.0.103:8082/artifactory/test-libs-snapshot</url>
+          <url>http://mill.jfrog.info:12113/artifactory/test-libs-snapshot</url>
         </pluginRepository>
       </pluginRepositories>
       <id>artifactory</id>
