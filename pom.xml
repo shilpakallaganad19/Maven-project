@@ -59,8 +59,8 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>art-test-releases</name>
-        <url>http://192.168.0.103:8082/artifactory/test-libs-release</url>
+        <name>Shilpa-Art7.27.6-releases</name>
+        <url>http://mill.jfrog.info:12113/artifactory/test-libs-release</url>
     </repository>
 </distributionManagement>
 </project>
