@@ -60,7 +60,7 @@
     <repository>
         <id>central</id>
         <name>art-test-releases</name>
-        <url>http://192.168.43.104:8081/artifactory/test-libs-release</url>
+        <url>http://192.168.0.103:8081/artifactory/test-libs-release</url>
     </repository>
 </distributionManagement>
 </project>
