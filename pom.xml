@@ -63,8 +63,8 @@
 <distributionManagement>
     <repository>
         <id>central</id>
-        <name>Shilpa-Art7.27.6-releases</name>
-        <url>http://mill.jfrog.info:12113/artifactory/test-libs-release</url>
+        <name>HTS1-releases</name>
+        <url>https://hts1.jfrog.io/artifactory/shilpa-libs-release</url>
     </repository>
 </distributionManagement>
 </project>
